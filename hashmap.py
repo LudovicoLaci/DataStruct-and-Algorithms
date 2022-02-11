@@ -35,7 +35,7 @@ class HashMap(object):
 
 
 map = HashMap()
-map.insert('0491639857', 'Ludovico')
+map.insert('0494224654', 'Ludovico')
 map.insert('0494508692', 'Caner')
 map.insert('0494528034', 'Alex')
 print(map.retrieve('0491639857'))
